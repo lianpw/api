@@ -1,0 +1,10 @@
+{
+  "variety_list001": {
+    "url": "http://test-internal-product-center.weimiaocaishang.com/api/species/list",
+    "code": 0
+  },
+  "variety_list002": {
+    "url": "http://test-internal-product-center.weimiaocaishang.com/api/species/list",
+    "code": 0
+  }
+}
